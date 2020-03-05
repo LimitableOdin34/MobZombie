@@ -1,0 +1,1 @@
+draw_healthbar(0, 0, 600, 60, player_hp, c_black, c_red, c_green, 0, true, false);
